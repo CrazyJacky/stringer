@@ -13,7 +13,7 @@ production:
   encoding: unicode
   pool: 5
   database: dbibra39e733iq
-  username: trfoajmntjazdy
-  password: ufLWnpJfMlDygGunJ5YdlpVJwA
-  host: ec2-54-243-51-102.compute-1.amazonaws.com
+  username: bjjtxhuqcemetk
+  password: qapOhCoSMPmrRp8kVYFRgI1eiP
+  host: ec2-54-221-206-165.compute-1.amazonaws.com
   port: 5432
