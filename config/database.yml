@@ -12,8 +12,8 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: <%= ENV['STRINGER_DATABASE'] || "stringer" %>
-  username: <%= ENV['STRINGER_DATABASE_USERNAME'] %>
-  password: <%= ENV['STRINGER_DATABASE_PASSWORD'] %>
-  host: <%= ENV['STRINGER_DATABASE_HOST'] %>
-  port: <%= ENV['STRINGER_DATABASE_PORT'] %>
+  database: dbibra39e733iq
+  username: trfoajmntjazdy
+  password: ufLWnpJfMlDygGunJ5YdlpVJwA
+  host: ec2-54-243-51-102.compute-1.amazonaws.com
+  port: 5432
